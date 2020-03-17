@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1582923321,
+	"version": 1584466044,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -35,6 +35,7 @@
 		"images/sprite31-sheet0.png",
 		"images/sprite32-sheet0.png",
 		"images/sprite33-sheet0.png",
+		"images/sprite34-sheet0.png",
 		"media/490951__nox-sound__footsteps-walk114.ogg",
 		"media/foot.ogg",
 		"media/foot1.ogg",
